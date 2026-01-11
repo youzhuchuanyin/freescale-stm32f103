@@ -1,0 +1,1 @@
+cmd_/opt/project/drivers/ds18b20/ds18b20_dev.ko := arm-cortex_a9-linux-gnueabi-ld -EL -r  -T /opt/kernel/scripts/module-common.lds --build-id  -o /opt/project/drivers/ds18b20/ds18b20_dev.ko /opt/project/drivers/ds18b20/ds18b20_dev.o /opt/project/drivers/ds18b20/ds18b20_dev.mod.o

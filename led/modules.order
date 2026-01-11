@@ -1,0 +1,2 @@
+kernel//opt/project/drivers/led/led_drv.ko
+kernel//opt/project/drivers/led/led_dev.ko

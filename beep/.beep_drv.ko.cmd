@@ -1,0 +1,1 @@
+cmd_/opt/project/drivers/beep/beep_drv.ko := arm-cortex_a9-linux-gnueabi-ld -EL -r  -T /opt/kernel/scripts/module-common.lds --build-id  -o /opt/project/drivers/beep/beep_drv.ko /opt/project/drivers/beep/beep_drv.o /opt/project/drivers/beep/beep_drv.mod.o

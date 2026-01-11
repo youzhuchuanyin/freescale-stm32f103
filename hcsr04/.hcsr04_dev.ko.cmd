@@ -1,0 +1,1 @@
+cmd_/opt/project/drivers/hcsr04/hcsr04_dev.ko := arm-cortex_a9-linux-gnueabi-ld -EL -r  -T /opt/kernel/scripts/module-common.lds --build-id  -o /opt/project/drivers/hcsr04/hcsr04_dev.ko /opt/project/drivers/hcsr04/hcsr04_dev.o /opt/project/drivers/hcsr04/hcsr04_dev.mod.o

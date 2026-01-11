@@ -1,0 +1,2 @@
+kernel//opt/project/drivers/beep/beep_drv.ko
+kernel//opt/project/drivers/beep/beep_dev.ko

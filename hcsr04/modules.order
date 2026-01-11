@@ -1,0 +1,2 @@
+kernel//opt/project/drivers/hcsr04/hcsr04_drv.ko
+kernel//opt/project/drivers/hcsr04/hcsr04_dev.ko

@@ -1,0 +1,2 @@
+kernel//opt/project/drivers/ds18b20/ds18b20_drv.ko
+kernel//opt/project/drivers/ds18b20/ds18b20_dev.ko

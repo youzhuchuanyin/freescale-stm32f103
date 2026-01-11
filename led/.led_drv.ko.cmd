@@ -1,0 +1,1 @@
+cmd_/opt/project/drivers/led/led_drv.ko := arm-cortex_a9-linux-gnueabi-ld -EL -r  -T /opt/kernel/scripts/module-common.lds --build-id  -o /opt/project/drivers/led/led_drv.ko /opt/project/drivers/led/led_drv.o /opt/project/drivers/led/led_drv.mod.o
